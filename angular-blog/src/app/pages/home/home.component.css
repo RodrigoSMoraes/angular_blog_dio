@@ -8,7 +8,6 @@
 
 header {
     margin: 15px 0;
-    border: 1px solid rgb(105, 0, 0);
     display: flex;
     justify-content: center;
 }
